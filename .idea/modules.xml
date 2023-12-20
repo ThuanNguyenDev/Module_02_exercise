@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnimalInterfaceEdible/AnimalInterfaceEdible.iml" filepath="$PROJECT_DIR$/AnimalInterfaceEdible/AnimalInterfaceEdible.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarCreate/CarCreate.iml" filepath="$PROJECT_DIR$/CarCreate/CarCreate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Circle/Circle.iml" filepath="$PROJECT_DIR$/Circle/Circle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CircleCylinder/CircleCylinder.iml" filepath="$PROJECT_DIR$/CircleCylinder/CircleCylinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comparable-Comparator/Comparable-Comparator.iml" filepath="$PROJECT_DIR$/Comparable-Comparator/Comparable-Comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DatHangShopee/DatHangShopee.iml" filepath="$PROJECT_DIR$/DatHangShopee/DatHangShopee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HeCacDoiTuongHinhHoc/HeCacDoiTuongHinhHoc.iml" filepath="$PROJECT_DIR$/HeCacDoiTuongHinhHoc/HeCacDoiTuongHinhHoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroductiontoJava1/IntroductionToJava.iml" filepath="$PROJECT_DIR$/IntroductiontoJava1/IntroductionToJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MODULE-02-JAVA.iml" filepath="$PROJECT_DIR$/.idea/MODULE-02-JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person/Person.iml" filepath="$PROJECT_DIR$/Person/Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PersonStudentTeacher/PersonStudentTeacher.iml" filepath="$PROJECT_DIR$/PersonStudentTeacher/PersonStudentTeacher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Point/Point.iml" filepath="$PROJECT_DIR$/Point/Point.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PointMoveablePoint/PointMoveablePoint.iml" filepath="$PROJECT_DIR$/PointMoveablePoint/PointMoveablePoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuanLyBoPhim/QuanLyBoPhim.iml" filepath="$PROJECT_DIR$/QuanLyBoPhim/QuanLyBoPhim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuanLyDSSV_ArrayList/QuanLyDSSV_ArrayList.iml" filepath="$PROJECT_DIR$/QuanLyDSSV_ArrayList/QuanLyDSSV_ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuanLySach/QuanLySach.iml" filepath="$PROJECT_DIR$/QuanLySach/QuanLySach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuanLySanPhamShopee/QuanLySanPhamShopee.iml" filepath="$PROJECT_DIR$/QuanLySanPhamShopee/QuanLySanPhamShopee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RandomLopHinhHoc/RandomLopHinhHoc.iml" filepath="$PROJECT_DIR$/RandomLopHinhHoc/RandomLopHinhHoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rectangle1/Rectangle1.iml" filepath="$PROJECT_DIR$/Rectangle1/Rectangle1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResizeableLopHinhHoc/ResizeableLopHinhHoc.iml" filepath="$PROJECT_DIR$/ResizeableLopHinhHoc/ResizeableLopHinhHoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shape/Shape.iml" filepath="$PROJECT_DIR$/Shape/Shape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shopee/Shopee.iml" filepath="$PROJECT_DIR$/Shopee/Shopee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StopWatch/StopWatch.iml" filepath="$PROJECT_DIR$/StopWatch/StopWatch.iml" />
+    </modules>
+  </component>
+</project>
